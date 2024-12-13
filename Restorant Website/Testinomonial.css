@@ -1,0 +1,176 @@
+.header{
+    background-color: rgb(0, 0, 0);
+    
+}
+.resto{
+    color:#f39c12;
+   font-weight: bolder; 
+   font-size: 40px;
+   font-family: "Playwrite US Trad Guides", cursive;
+   
+}
+.home:hover{
+    color:rgb(152, 106, 22) !important;
+    
+}
+.home1:hover{
+    color: #bcbcba !important;
+}
+.hero{
+    background-image: url(hero-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 50px 1px ;
+    color: white;
+    
+    text-align: center;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ .firstContainer{
+    background-color: #fcfcf6;
+}
+.booking:hover{
+    background-color: orange;
+}
+.home:hover{
+    color:rgb(152, 106, 22) !important;
+    
+}
+
+.home1:hover{
+    color: #bcbcba !important;
+}
+.links li a{
+    text-decoration: none !important;
+    color: orange !important;
+    font-size: 20px;
+ }
+ .links li {
+     text-decoration: none !important;
+     color: white !important;
+     font-size: 20px;
+  }
+ .links{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+ 
+ }
+ .hero h1{
+     font-weight: 700;
+     font-size: 70px;
+ }
+ .cardrow{
+    margin-top: 100px;
+    margin-bottom: 100px;
+ }
+ .quote{
+    color: orange;
+    font-size: 40px;
+    font-weight: 600;
+    margin-bottom: 10px;
+ }
+ .div2{
+    margin-left: 35px;
+ }
+     .card:hover{
+        background-color: orange;
+     }
+     .readmore:hover{
+        background-color: rgb(208, 123, 58);
+     }
+     .inputbutton{
+         background-color: white;
+         position:absolute;
+         padding: 5px;
+         margin-bottom: 20px !important;
+         border: 3px solid orange;   
+     }
+     .foot{
+         background-color: rgb(8, 8, 32);
+         color: white;
+         padding: 30px;
+     }
+     li a{
+         text-decoration: none;
+         list-style: none;
+         color: white;
+     }
+     li{
+         list-style: none;
+     }
+     .foot1 h4{
+         margin-bottom: 30px;
+         color: orange;
+     }
+     .foot2 h4{
+         margin-bottom: 30px;
+         color: orange;
+     }
+     .foot3 h4{
+         margin-bottom: 30px;
+         color: orange;
+     }
+     .foot4 h4{
+         margin-bottom: 30px;
+         color: orange;
+     }
+     .foot4{
+         padding-right: 30px;
+     }
+     .foot1 li {
+         line-height: 35px;
+     }
+     .foot2 li {
+         line-height: 35px;
+     }
+     .foot3 li {
+         line-height: 35px;
+     }
+     .foot4  {
+         line-height: 35px;
+     }
+     .emailbutton{
+         background-color: orange;
+         border: none;
+     }
+     .emailbutton:hover{
+         background-color: rgb(208, 123, 58);
+     }
+     input{
+         border: none;
+         width: 150px;
+     }
+     .socialicon{
+         font-size: 25px;
+     
+     }
+     *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+     .socialmedia{
+         padding-left: 20px;
+         background-color: rgb(8, 8, 32);
+         color: white;
+     
+     }
+     .company{
+         font-family: "Playwrite US Trad Guides", cursive;
+         font-weight: bold;
+     }
+     .spoon{
+         color: orange;
+     }
+     .Client{
+        font-size: 50px;
+        font-weight: 700;
+     }
+     .company{
+        color: orange;
+        font-weight: bold;
+     }
